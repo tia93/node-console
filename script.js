@@ -142,5 +142,14 @@ for(let i= 0; i < objectArray.length; i++){
 }
 
 
-
+//c:\document\cvs
+// const pippoJson = JSON.stringify(pippo);
+// console.log(pippoJson)
+//stringa in formato json ---- creation 
+//{
+//   "title": "ilade",
+//   "author": "omero"
+//   "price" : 15.7,
+//   "softcopy" : true
+// }
  
